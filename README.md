@@ -1,3 +1,3 @@
 # Risklabproject
 
-Project is meant to determine why customers of a bank default during a certain period.
+Model for bank customers default in the month of July.
