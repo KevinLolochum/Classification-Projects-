@@ -5,8 +5,8 @@ I use information about customers such as education, sex, marital-status, previo
 
 I compare the performance of simple classification models with ANNs and the results are shown. ANNs perform slightly beteer than simple models.
 
-# Classifier      Score
-GNB               - 79%
-BaggingClassifier - 81.4%
-XGB Classifiers   - 81.7%
-ANNs              - 81.7%
+# Classifier          Score
+1. GNB               - 79%
+2. BaggingClassifier - 81.4%
+3. XGB Classifiers   - 81.7%
+4. ANNs              - 81.7%
